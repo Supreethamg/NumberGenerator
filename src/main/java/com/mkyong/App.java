@@ -3,7 +3,8 @@ package com.mkyong;
 import java.util.UUID;
 
 /**
- * I am updating this comment for github changes
+ * I am updating this comment for github changes 
+Adding another comment 
  *
  */
 public class App 
