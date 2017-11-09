@@ -3,7 +3,7 @@ package com.mkyong;
 import java.util.UUID;
 
 /**
- * Generate a unique number
+ * I am updating this comment for github changes
  *
  */
 public class App 
